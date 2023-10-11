@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <el-header id="header" height="60px">
-      <el-col :span="3" :offset="2"><a href="/" id="logo">CTF???</a></el-col>
+      <el-col :span="3" :offset="1"><a href="/" id="logo">CTF???</a></el-col>
       <el-col :span="15" id="nav">
         <ul>
           <li><router-link to="/">比赛</router-link></li>
